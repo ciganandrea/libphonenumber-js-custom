@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "libphonenumber-js-custom",
+  "version": "1.0.0",
+  "main": "index.commonjs.js",
+  "module": "index.js",
+  "types": "../custom/index.d.ts",
+  "sideEffects": false
+}

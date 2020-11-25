@@ -40,7 +40,17 @@ export default [
       file: 'bundle/libphonenumber-max.js',
       sourcemap: true
     }
-  },
+	},
+	{
+		input: 'custom/index.js',
+		plugins: [json(), terser()],
+		output: {
+			format: 'umd',
+			name: 'libphonenumber',
+			file: 'bundle/libphonenumber-custom.js',
+			sourcemap: true,
+		}
+	},
   {
     input: 'index.es6',
     plugins: [
