@@ -47,7 +47,7 @@ export default [
 		output: {
 			format: 'umd',
 			name: 'libphonenumber',
-			file: 'bundle/libphonenumber-custom.js',
+			file: 'bundle/libphonenumber-js.custom.js',
 			sourcemap: true,
 		}
 	},
