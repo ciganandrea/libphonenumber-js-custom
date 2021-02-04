@@ -1,4 +1,5 @@
->  ⚠️ **Cloned from [libphonenumber-js](https://gitlab.com/catamphetamine/libphonenumber-js) and edited**
+>  ⚠️ **Cloned from [libphonenumber-js](https://gitlab.com/catamphetamine/libphonenumber-js) and customized**
+> ## [How to customize](HOWTOCUSTOMIZE.md)
 
 # libphonenumber-js
 
